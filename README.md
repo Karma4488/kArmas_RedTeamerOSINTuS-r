@@ -1,6 +1,6 @@
 # kArmas_RedTeamerOSINTuSɛr🚀
-# Made in l0v3 bY kArmasec
-# weareLegion
+  Made in l0v3 bY kArmasec
+  weareLegion
 
 **kArmas_RedTeamerOSINTuSɛr** is a single-file, enterprise-style OSINT framework for large-scale username intelligence.🎩 
 It is designed for **authorized red team, blue team, and defensive research** workflows.
